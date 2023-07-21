@@ -10,7 +10,7 @@ const SideBar = () => {
       </div>
       <div className="dashboard-sidebar">
         <div className="dashboard-sidebar-child" />
-        <BrowserRouter>
+        <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Link to="/"><div className="karigar">Karigar</div></Link><br/>
         <Link to="/"><div className="bullion">Bullion</div></Link><br/>
         <Link to="/"><div className="supplier">Supplier</div></Link><br/>
