@@ -1,0 +1,391 @@
+.master-background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #fff;
+  width: 100%;
+  height: 50%;
+}
+
+.top-left-profile {
+  position: absolute;
+  top: 20px;
+  left: 1450;
+  width: 44px;
+  height: 44px;
+  overflow: hidden;
+}
+
+.search,
+.search-karigar1 {
+  position: absolute;
+  top: 9px;
+  left: 334px;
+  display: inline-block;
+  width: 67px;
+}
+
+.search-karigar1 {
+  top: 6px;
+  left: 21px;
+  font-size: 24px;
+  color: #bbb;
+  width: 203.28px;
+  height: 29.03px;
+}
+
+.search-karigar {
+  position: absolute;
+  top: 325px;
+  left: 293px;
+  width: 416px;
+  height: 41px;
+}
+
+.table-heading {
+  top: 0;
+  left: 0;
+  width: 80%;
+  height: 94px;
+}
+
+.karigar-summary-page-table {
+  position: absolute;
+  top: 0;
+  left: -2px;
+  width: 100%;
+  height: 668px;
+}
+
+.karigar-summary-page-table {
+  top: 412px;
+  left: 293px;
+  width: 100%;
+}
+
+/* export popup */
+.export-button {
+  position: absolute;
+  top: 341px;
+  left: 1350px;
+  width: 109px;
+  height: 38px;
+}
+
+.export-popup-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  background-color: #fff;
+  border: 1px solid #4f617d;
+  box-sizing: border-box;
+  width: 250px;
+  height: 145px;
+}
+
+.excel,
+.pdf {
+  position: absolute;
+  top: 9px;
+  left: 16px;
+}
+
+.pdf {
+  left: 116px;
+}
+
+.detailed,
+.summary {
+  position: absolute;
+  top: 57px;
+  left: 16px;
+  color: #4f617d;
+}
+
+.summary {
+  left: 139px;
+}
+
+.rectangle-div {
+  position: absolute;
+  background-color: #4f617d;
+  top: 45px;
+  left: 1px;
+  width: 250px;
+  height: 1px;
+}
+
+.export-button1 {
+  position: absolute;
+  top: 104px;
+  left: 16px;
+  width: 93px;
+  height: 25px;
+  font-size: 14px;
+}
+
+.print {
+  position: absolute;
+  top: 4px;
+  left: 29px;
+  display: inline-block;
+  width: 64px;
+}
+
+.export-button2 {
+  position: absolute;
+  top: 104px;
+  left: 116px;
+  width: 93px;
+  height: 25px;
+  font-size: 14px;
+}
+
+.export-popup {
+  position: relative;
+  top: 187px;
+  left: 1200px;
+  width: 287px;
+  height: 145px;
+}
+
+/* export popup ends*/
+
+
+.metal-toggle {
+  position: absolute;
+  top: 48px;
+  left: 293px;
+  width: 303px;
+  height: 36px;
+  font-size: 24px;
+  color: #fff;
+}
+
+/* sidebar */
+
+.sidebar {
+  background-color: #fff;
+  border: 1px solid #e0e4eb;
+  box-shadow: 2px 2px 2px rgb(82, 81, 79);
+  box-sizing: border-box;
+}
+
+.dashboard-sidebar-child,
+.menu-sidebar,
+.sidebar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 240px;
+  height: 100%;
+}
+
+.dashboard-sidebar-child {
+  top: 43px;
+  background-color: #484848;
+  height: 30px;
+}
+
+.dashboard-sidebar {
+  position: absolute;
+  top: 136px;
+  left: 0;
+  width: 235px;
+  height: 160px;
+}
+
+.easily {
+  color: #484848;
+}
+
+.business-made-easy,
+.doeasily {
+  position: absolute;
+  top: 0;
+  left: 6px;
+  display: inline-block;
+  width: 116px;
+  height: 35px;
+}
+
+.business-made-easy {
+  top: 35px;
+  left: 0;
+  font-size: 14px;
+  color: #484848;
+  width: 132px;
+  height: 17px;
+}
+
+.doeasily-logo {
+  position: absolute;
+  top: 49px;
+  left: 54px;
+  width: 132px;
+  height: 47px;
+  font-size: 32px;
+  color: #c5a8de;
+}
+
+.sidebar-master {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 235px;
+  height: 1080px;
+  color: #5a5a5a;
+}
+
+.karigar {
+  position: absolute;
+  top: 46px;
+  left: 75px;
+  color: #fff;
+}
+
+.bullion,
+.customer,
+.supplier {
+  position: absolute;
+  top: 76px;
+  left: 75px;
+}
+
+.customer,
+.supplier {
+  top: 106px;
+}
+
+.customer {
+  top: 136px;
+}
+
+.parties {
+  position: absolute;
+  top: 0;
+  left: 47px;
+  font-size: 24px;
+  font-weight: 600;
+  color: #484848;
+}
+
+.karigar-box-child,
+.karigar-rect {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  background-color: #e0e4eb;
+  width: 617px;
+  height: 201px;
+}
+
+.karigar-rect {
+  top: 7px;
+  left: 5px;
+  background-color: #fff;
+  width: 605px;
+  height: 186px;
+}
+
+.amount1 {
+  margin: 0;
+  font-weight: 300;
+  color: #484848;
+}
+
+.p {
+  margin: 0;
+  font-weight: 600;
+}
+
+.amount-185000-dena-container {
+  position: absolute;
+  top: 87px;
+  left: 451px;
+  display: inline-block;
+  width: 156px;
+  height: 85px;
+  color: #55a654;
+}
+
+.gold-25966-gm-container {
+  position: absolute;
+  top: 87px;
+  left: 240px;
+  display: inline-block;
+  width: 145px;
+}
+
+.silver2 {
+  font-weight: 300;
+  font-family: "SF Pro";
+  color: #484848;
+}
+
+.blank-line {
+  font-family: "SF Pro";
+  color: #c54242;
+}
+
+.kg1 {
+  font-weight: 600;
+}
+
+.silver-14200-kg {
+  margin: 0;
+}
+
+.party,
+.silver-14200-kg-lena-container {
+  position: absolute;
+  top: 87px;
+  left: 45px;
+  display: inline-block;
+  width: 117px;
+  height: 85px;
+}
+
+.party {
+  top: 33px;
+  left: 46.14px;
+  font-weight: 600;
+  color: #4f617d;
+  width: 203.28px;
+  height: 29.03px;
+}
+
+
+.add-karigar-button,
+.karigar-box {
+  position: absolute;
+  top: 35px;
+  left: 137px;
+  width: 122px;
+  height: 27px;
+  font-size: 16px;
+  color: #4f617d;
+}
+
+.karigar-box {
+  top: 104px;
+  left: 293px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  width: 617px;
+  height: 201px;
+  font-size: 24px;
+  color: #bc5c5c;
+}
+
+/* styles.css */
+.flex-container {
+  display: flex; /* Display the elements as a flex container */
+  flex-direction: row; /* Arrange the elements horizontally */
+}
+
+.flex-item {
+  padding: 10px;
+  border: 1px solid #ccc;
+}
