@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DoEasilyDashboard/static/css/main.445eb1d5.css",
+    "main.js": "/DoEasilyDashboard/static/js/main.c52ecf91.js",
+    "static/js/787.f87ab65d.chunk.js": "/DoEasilyDashboard/static/js/787.f87ab65d.chunk.js",
+    "index.html": "/DoEasilyDashboard/index.html",
+    "main.445eb1d5.css.map": "/DoEasilyDashboard/static/css/main.445eb1d5.css.map",
+    "main.c52ecf91.js.map": "/DoEasilyDashboard/static/js/main.c52ecf91.js.map",
+    "787.f87ab65d.chunk.js.map": "/DoEasilyDashboard/static/js/787.f87ab65d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.445eb1d5.css",
+    "static/js/main.c52ecf91.js"
+  ]
+}
